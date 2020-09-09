@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SPA-React/static/css/main.0e012e29.chunk.css",
+    "main.js": "/SPA-React/static/js/main.b8d1689a.chunk.js",
+    "main.js.map": "/SPA-React/static/js/main.b8d1689a.chunk.js.map",
+    "runtime-main.js": "/SPA-React/static/js/runtime-main.f6aca9ff.js",
+    "runtime-main.js.map": "/SPA-React/static/js/runtime-main.f6aca9ff.js.map",
+    "static/js/2.2311b44b.chunk.js": "/SPA-React/static/js/2.2311b44b.chunk.js",
+    "static/js/2.2311b44b.chunk.js.map": "/SPA-React/static/js/2.2311b44b.chunk.js.map",
+    "index.html": "/SPA-React/index.html",
+    "precache-manifest.cf69045f3eb03789fdc89fac3c0414b2.js": "/SPA-React/precache-manifest.cf69045f3eb03789fdc89fac3c0414b2.js",
+    "service-worker.js": "/SPA-React/service-worker.js",
+    "static/css/main.0e012e29.chunk.css.map": "/SPA-React/static/css/main.0e012e29.chunk.css.map",
+    "static/js/2.2311b44b.chunk.js.LICENSE.txt": "/SPA-React/static/js/2.2311b44b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6aca9ff.js",
+    "static/js/2.2311b44b.chunk.js",
+    "static/css/main.0e012e29.chunk.css",
+    "static/js/main.b8d1689a.chunk.js"
+  ]
+}
